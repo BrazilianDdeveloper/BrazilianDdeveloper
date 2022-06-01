@@ -1,7 +1,7 @@
 # Diego-de-Araujo
 
 - 📚 Aprendendo Javascript
-- 💻 Tecnologias: HTML e CSS
+- 💻 Tecnologias: HTML, CSS  e Javascript.
 - 🎯 Em busca do primeiro emprego como desenvolvedor front-ed
 
 <div align="center">
